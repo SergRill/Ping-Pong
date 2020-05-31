@@ -1,0 +1,10 @@
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.exe.config
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.exe
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\bin\Debug\Ping-Pong.pdb
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.csprojAssemblyReference.cache
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping_Pong.Form1.resources
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping_Pong.Properties.Resources.resources
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.csproj.GenerateResource.cache
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.csproj.CoreCompileInputs.cache
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.exe
+C:\Users\smert\source\repos\Ping-Pong\Ping-Pong\obj\Debug\Ping-Pong.pdb
